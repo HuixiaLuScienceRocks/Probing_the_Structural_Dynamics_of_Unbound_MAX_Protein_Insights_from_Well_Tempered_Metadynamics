@@ -14,7 +14,7 @@ Related results and the corresponding Python code used to obtain the results are
 2. well-tempered metaD: gromacs/2023.5_plumed-2.9.2-gcc-nvhpcx
 
 
-# highlights from this work:
+# Highlights from this work:
 The objective of our work is to achieve a deeper understanding of the conformational dynamics of the resolved motif of the MAX protein, a critical transcriptional regulator in the MYC/MAX/MAD network that plays a central role in cellular growth, differenciation, metabolism, and apoptosis. Although MAX is indispensable for MYC’s oncogenic activity, its partially disordered nature has hindered structural characterization and constrained drug discovery efforts. To address these challenges, we employed extensive molecular dynamics (2 μs) and enhanced-sampling well-tempered metadynamics simulations (3.5 μs) to explore the conformational landscape of unbound monomeric MAX. 
 
 Our study reveals, for the first time, a thermodynamically favorable and well-defined conformation of monomeric MAX, demonstrating that regions previously thought to be persistently disordered can adopt stable folded structures in its monomeric form. Furthermore, the constructed free-energy surface highlights metastable states and low-energy conformations that differ substantially from the experimentally resolved crystal structure, potentially explaining why previous drug-design efforts targeting the crystal form of MAX have not yet yielded FDA-approved therapies.
