@@ -1,7 +1,6 @@
 In this folder we are providing the optimized structure of ligand 10058-F4 that we subsequently used for docking simulations of 100058-F4 with three states of unbound MAX identified from the 3.5 μs WTD-metadynamics simulations.
 
-During the DFT calcultaion aiming for geometry optimization, we have ultilized two levels of theory: B3LYP/6-31G* (classic and basic set) and M06L/LanL2DZ (a meta-GGA functional combined with a pseudopotential basis set).
-
+We used the CHARMM36 force field–predicted structure as the initial model for the ligand 10058-F4. For the DFT geometry optimization, two levels of theory were employed: B3LYP/6-31G* (a conventional hybrid functional with a standard basis set) and M06L/LanL2DZ (a meta-GGA functional combined with a pseudopotential basis set).
 
 
 
