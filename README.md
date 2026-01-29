@@ -1,6 +1,6 @@
-## These files are for a submitted manuscript:
+## These files are for a published paper:
 
-# "Probing the Structural Dynamics of Unbound MAX Protein: Insights from Well-Tempered Metadynamics" by Huixia Lu, Jordi Marti, and Jordi Faraudo
+# "Probing the Structural Dynamics of the Unbound MAX Protein: Insights from Well-Tempered Metadynamics" by Huixia Lu, Jordi Marti, and Jordi Faraudo, DOI: https://doi.org/10.1021/acs.jcim.5c02155
 
 ## If you find these instructions useful, I am more than happy to share. When you use any of these files, please cite my paper. Thank you.
 
